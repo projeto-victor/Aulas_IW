@@ -1,3 +1,20 @@
 body{
 background-color:#708090;
 }
+.img_topo{
+    width: 30%;
+}
+.img_corpo{
+    width: 30%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+font-size: 1.8em;
+text-align: justify;
+}
