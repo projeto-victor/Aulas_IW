@@ -16,5 +16,8 @@ h1{
 }
 p{
 font-size: 1.8em;
-text-align: justify;
+text-align: center;
+}
+figure{
+    text-align: center
 }
