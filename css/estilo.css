@@ -13,6 +13,7 @@ background-color:#708090;
 }
 h1{
     text-align: center;
+    font-size: 2.5em;
 }
 p{
 font-size: 1.8em;
@@ -20,4 +21,18 @@ text-align: center;
 }
 figure{
     text-align: center
+}
+footer{
+  background-color: #15202b;
+  padding-top: 2%;
+  padding-bottom: 2%;
+
+
+}
+
+footer p{
+    color: #696969;
+    font-weight: bold;
+    font-size: 1em;
+    
 }
