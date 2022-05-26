@@ -1,11 +1,14 @@
 body{
-background-color:#708090;
+        background-color:#708090;
 }
 .img_topo{
     width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .img_corpo{
     width: 30%;
+    margin-bottom: 20px;
 }
 .container{
     width: 80%;
@@ -14,25 +17,21 @@ background-color:#708090;
 h1{
     text-align: center;
     font-size: 2.5em;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #2F4F4F;
 }
 p{
-font-size: 1.8em;
-text-align: center;
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 32px;
+    margin-bottom: 20px;
 }
 figure{
     text-align: center
 }
 footer{
-  background-color: #15202b;
-  padding-top: 2%;
-  padding-bottom: 2%;
-
-
-}
-
-footer p{
-    color: #696969;
-    font-weight: bold;
-    font-size: 1em;
-    
+    background-color: #15202b;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
